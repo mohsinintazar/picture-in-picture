@@ -12,6 +12,9 @@ I just move that small video window on the corner of the Visual studio and do co
 
 You can fork the project and make changes according to your requirement.
 
+## Demo
+[Click here](https://mohsinintazar.github.io/picture-in-picture/)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
